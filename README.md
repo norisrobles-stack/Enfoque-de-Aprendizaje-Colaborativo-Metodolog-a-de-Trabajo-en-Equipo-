@@ -1,13 +1,12 @@
 ![Planos del Aprendizaje – Patrulla Puma Exploradora](assets/banner.svg)
 
-# 🧩 Planos del Aprendizaje: Armando el Circuito Comunicativo
-
-![Patrulla](https://img.shields.io/badge/Patrulla-Puma_Exploradora-6d28d9?style=for-the-badge) ![Integrantes](https://img.shields.io/badge/Integrantes-6-0f766e?style=for-the-badge) ![Modelos](https://img.shields.io/badge/Modelos-3-d97706?style=for-the-badge) ![Tema](https://img.shields.io/badge/Tema-Comunicaci%C3%B3n_virtual-2563eb?style=for-the-badge)
+# 🧩 Enfoque de Aprendizaje Colaborativo (Metodología de Trabajo en Equipo): Armando el Circuito Comunicativo
+![Patrulla](https://img.shields.io/badge/Patrulla-Puma_Exploradores-6d28d9?style=for-the-badge) ![Integrantes](https://img.shields.io/badge/Integrantes-6-0f766e?style=for-the-badge)  ![Tema](https://img.shields.io/badge/Tema-Comunicaci%C3%B3n_virtual-2563eb?style=for-the-badge)
 
 ![](assets/divider.svg)
 
 ## 📌 Título de la actividad
-**Plano comunicativo – Patrulla Puma Exploradora**
+**Plano comunicativo – Patrulla Puma Exploradores**
 
 ## 🎯 Propósito de la actividad
 > [!NOTE]
@@ -16,12 +15,12 @@
 ## 👥 Integrantes del grupo
 | Nombre | Rol en el grupo | Correo / Contacto |
 |:--|:--|:--|
-| 🧑‍🎓 **Jorge Lacayo** | [Completar] | jorge.lacayo@oteima.ac.pa |
-| 🧑‍🎓 **Madelene Delgado** | [Completar] | madelene.delgado@oteima.ac.pa |
-| 🧑‍🎓 **Jovanny Canto** | [Completar] | jovanny.canto@oteima.ac.pa |
-| 🧑‍🎓 **Diana Torres** | [Completar] | diana.torres@oteima.ac.pa |
-| 🧑‍🎓 **Noris Robles** | [Completar] | noris.robles@oteima.ac.pa |
-| 🧑‍🎓 **Keyla Camarena** | [Completar] | keyla.camarena@oteima.ac.pa |
+| 🧑‍🎓 **Jorge Lacayo** | [Líder de proyecto] | jorge.lacayo@oteima.ac.pa |
+| 🧑‍🎓 **Madelene Delgado** | [Especialista en Diagramación y Representación Visual] | madelene.delgado@oteima.ac.pa |
+| 🧑‍🎓 **Jovanny Canto** | [Coordinador] | jovanny.canto@oteima.ac.pa |
+| 🧑‍🎓 **Diana Torres** | [Especialista en Diagramación y Representación Visual] | diana.torres@oteima.ac.pa |
+| 🧑‍🎓 **Noris Robles** | [Redactor y Revisor Técnico] | noris.robles@oteima.ac.pa |
+| 🧑‍🎓 **Keyla Camarena** | [Redactor y Revisor Técnico] | keyla.camarena@oteima.ac.pa |
 
 ![](assets/divider.svg)
 
