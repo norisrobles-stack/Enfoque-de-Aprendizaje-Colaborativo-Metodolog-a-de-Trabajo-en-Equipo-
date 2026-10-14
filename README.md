@@ -15,12 +15,12 @@
 ## 👥 Integrantes del grupo
 | Nombre | Rol en el grupo | Correo / Contacto |
 |:--|:--|:--|
-| 🧑‍🎓 **Jorge Lacayo** | [Líder de proyecto] | jorge.lacayo@oteima.ac.pa |
-| 🧑‍🎓 **Madelene Delgado** | [Especialista en Diagramación y Representación Visual] | madelene.delgado@oteima.ac.pa |
-| 🧑‍🎓 **Jovanny Canto** | [Coordinador] | jovanny.canto@oteima.ac.pa |
-| 🧑‍🎓 **Diana Torres** | [Especialista en Diagramación y Representación Visual] | diana.torres@oteima.ac.pa |
-| 🧑‍🎓 **Noris Robles** | [Redactor y Revisor Técnico] | noris.robles@oteima.ac.pa |
-| 🧑‍🎓 **Keyla Camarena** | [Redactor y Revisor Técnico] | keyla.camarena@oteima.ac.pa |
+| 🧑‍🎓 **Jorge Lacayo** | Líder de proyecto | jorge.lacayo@oteima.ac.pa |
+| 🧑‍🎓 **Madelene Delgado** |Especialista en Diagramación y Representación Visual | madelene.delgado@oteima.ac.pa |
+| 🧑‍🎓 **Jovanny Canto** | Coordinador | jovanny.canto@oteima.ac.pa |
+| 🧑‍🎓 **Diana Torres** | Especialista en Diagramación y Representación Visual | diana.torres@oteima.ac.pa |
+| 🧑‍🎓 **Noris Robles** | Redactor y Revisor Técnico | noris.robles@oteima.ac.pa |
+| 🧑‍🎓 **Keyla Camarena** | Redactor y Revisor Técnico | keyla.camarena@oteima.ac.pa |
 
 ![](assets/divider.svg)
 
