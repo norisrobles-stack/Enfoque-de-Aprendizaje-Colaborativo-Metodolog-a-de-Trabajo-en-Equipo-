@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Planos del Aprendizaje">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b0764"/>
+      <stop offset="0.55" stop-color="#5b21b6"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#ffffff"/>
+    </marker>
+    <marker id="arrp" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#ddd6fe"/>
+    </marker>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.6" fill="#ffffff" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="330" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="26" fill="url(#dots)"/>
+  <circle cx="1130" cy="40" r="90" fill="#ffffff" fill-opacity="0.05"/>
+  <circle cx="40" cy="310" r="70" fill="#ffffff" fill-opacity="0.05"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="60" y="88" font-size="14" font-weight="600" letter-spacing="2" fill="#ddd6fe">ACTIVIDAD GRUPAL · COMUNICACIÓN VIRTUAL</text>
+    <text x="60" y="158" font-size="46" font-weight="800" fill="#ffffff">Planos del Aprendizaje</text>
+    <text x="60" y="204" font-size="26" font-weight="400" fill="#e9d5ff">Armando el circuito comunicativo</text>
+    <rect x="60" y="236" width="300" height="40" rx="20" fill="#fbbf24"/>
+    <text x="210" y="262" font-size="17" font-weight="700" fill="#3b0764" text-anchor="middle">Patrulla Puma Exploradora</text>
+
+    <!-- circuito -->
+    <line x1="892" y1="150" x2="926" y2="150" stroke="#ffffff" stroke-width="3" marker-end="url(#arr)"/>
+    <line x1="1012" y1="150" x2="1046" y2="150" stroke="#ffffff" stroke-width="3" marker-end="url(#arr)"/>
+    <circle cx="850" cy="150" r="36" fill="#fbbf24"/>
+    <circle cx="970" cy="150" r="36" fill="#60a5fa"/>
+    <circle cx="1090" cy="150" r="36" fill="#4ade80"/>
+    <text x="850" y="160" font-size="28" font-weight="800" fill="#3b0764" text-anchor="middle">E</text>
+    <text x="970" y="160" font-size="28" font-weight="800" fill="#172554" text-anchor="middle">C</text>
+    <text x="1090" y="160" font-size="28" font-weight="800" fill="#052e16" text-anchor="middle">R</text>
+    <g font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">
+      <text x="850" y="208">Emisor</text>
+      <text x="970" y="208">Canal</text>
+      <text x="1090" y="208">Receptor</text>
+    </g>
+    <!-- retroalimentación -->
+    <path d="M1090 224 C1090 300 850 300 850 224" fill="none" stroke="#ddd6fe" stroke-width="3" stroke-dasharray="2 7" stroke-linecap="round" marker-end="url(#arrp)"/>
+    <text x="970" y="312" font-size="14" font-weight="600" fill="#ddd6fe" text-anchor="middle">Retroalimentación</text>
+    <!-- ruido -->
+    <line x1="970" y1="86" x2="970" y2="108" stroke="#fca5a5" stroke-width="3" stroke-dasharray="3 5" stroke-linecap="round"/>
+    <circle cx="970" cy="68" r="14" fill="#ef4444"/>
+    <text x="970" y="74" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">!</text>
+    <text x="1004" y="73" font-size="14" font-weight="600" fill="#fecaca">Ruido</text>
+  </g>
+</svg>
