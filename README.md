@@ -127,7 +127,7 @@ flowchart LR
 ```
 
 👨‍🏫 Profesor (emisor) ➡️ 🗣️ Explicación (canal) ➡️ 👩‍🎓 Estudiantes (receptores)
-👩‍🎓 Estudiantes (receptores) ➡️ 💬 Preguntas y respuestas (retroalimentación) ➡️ 👨‍🏫 Profesor (emisor)
+ ➡️ 💬 Preguntas y respuestas (retroalimentación) ➡️ 👨‍🏫 Profesor (emisor)
 
 En este ejemplo, el emisor es el profesor, el mensaje es la explicación del tema, el canal es su voz, los receptores son los estudiantes y la retroalimentación son las preguntas, respuestas o dudas que ellos expresan.
 
